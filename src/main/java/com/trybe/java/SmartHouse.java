@@ -22,7 +22,4 @@ public class SmartHouse {
     return this.lampada;
   };
 
-  public double calculaImc() {
-
-  };
 }

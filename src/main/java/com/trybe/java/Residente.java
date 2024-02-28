@@ -15,4 +15,10 @@ public class Residente {
     this.peso = peso;
     this.altura = altura;
   };
+
+  public double calculaImc() {
+    double alturaAoQuadrado = this.altura * this.altura;
+    double imc = this.peso / alturaAoQuadrado;
+    return imc;
+  };
 }
