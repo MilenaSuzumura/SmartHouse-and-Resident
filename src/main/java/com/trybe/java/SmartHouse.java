@@ -21,4 +21,8 @@ public class SmartHouse {
   public boolean isLampadaLigada() {
     return this.lampada;
   };
+
+  public double calculaImc() {
+
+  };
 }
