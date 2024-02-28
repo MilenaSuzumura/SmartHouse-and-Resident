@@ -10,5 +10,16 @@ public class SmartHouse {
     this.lampada = false;
   };
 
+  void ligarLampada() {
+
+  };
+
+  void desligarLampada() {
+
+  };
+
+  boolean isLampadaLigada() {
+
+  };
 
 }
