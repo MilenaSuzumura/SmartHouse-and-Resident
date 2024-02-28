@@ -22,4 +22,7 @@ public class SmartHouse {
     return this.lampada;
   };
 
+  public boolean conectarInternet(double connectionRate) {
+    return (connectionRate > 0.5);
+  };
 }
