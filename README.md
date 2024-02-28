@@ -1,9 +1,10 @@
+# SmartHouse and Residente
 
-<!-- # Trybers And Dragons
-
-Trybers And Dragons é um projeto focado em construir raças, arquétipos, personagens, entre outros; para treinar os pilares da Programação Orientada a Objetos(Herança, Abstração, Encapsulamento e Polimorfismo) e os princípios SOLID utilizando Typescript. 
+SmartHouse and Residente é um projeto focado em praticar os tipos de dados e na criação de métodos e constructor em Java.
 
 <strong>OBS:</strong> ESSE PROJETO FOI DESENVOLVIDO NA TRYBE.
+
+<!--
 
 ## Técnologias usadas
 * Typescript;
