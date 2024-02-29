@@ -1,19 +1,20 @@
-# SmartHouse and Residente
+# 🏡 SmartHouse and Residente 🏡
 
 SmartHouse and Residente é um projeto focado em praticar os tipos de dados e na criação de métodos e constructor em Java.
 
 <strong>OBS:</strong> ESSE PROJETO FOI DESENVOLVIDO NA TRYBE.
 
-<!--
+## 📑 Informações e Orientações 📑
 
-## Técnologias usadas
-* Typescript;
-* Node;
-* Express;
-* Docker;
-* Jest;
-* Nodemon;
-* Eslint.
+<details>
+  <summary><strong>⚙️Técnologias usadas⚙️</strong></summary><br>
+  
+  * Java;
+  * Maven;
+  * Eslint.
+</details>
+
+<!--
 
 ## Utilizando o docker
 Para criar os containers, execute: `docker-compose up -d`
