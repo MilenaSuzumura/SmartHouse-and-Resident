@@ -48,15 +48,33 @@ SmartHouse and Residente é um projeto focado em praticar os tipos de dados e na
   
   1 - Criei um método chamado `conectarInternet` que irá receber o atributo `connectionRate` do tipo `double` e deverá retornar `true`ou `false`;
   
-  2 - Para o atributo `connectionRate` ser true, a taxa de conexão deverá ser maior que 0.5, indicando uma conexão bem-sucedida.
+  2 - Para o atributo `connectionRate` ser true, a taxa de conexão deverá ser maior que 0.5, indicando uma conexão bem-sucedida;
 
   3 - Caso o atributo `connectionRate` for menor ou igual a 0.5, o método deve retornar false, indicando que a conexão falhou.
 
 </details>
 
-<!-- 
+<br>
 
+### 👤 Residente 👤
 
+<details>
+  <summary><strong>🫂 Criando Residente	🫂</strong></summary><br>
+  
+  1 - Criei vários atributos chamados: `nome` do tipo `String`, `idade` do tipo `int`, `peso` do tipo `double` e `altura` do tipo `double`;
+  
+  2 - Criei um constructor para receber os valores do atributos e assim, poder ser acessado.
 
+</details>
 
- -->
+<details>
+  <summary><strong>🖩 Cálculo do IMC	🖩</strong></summary><br>
+  
+  1 - Criei um método chamado `calcularImc` que deverá retornar um `double` com o resultado do cálculo do IMC do residente;
+  
+  2 - Para fazer o cálculo, precisei descobrir o resultado da `alturaAoQuadrado`. Ou seja, multipliquei `altura` pela `altura`;
+
+  3 - Após descobrir o valor de `alturaAoQuadrado`, dividi `peso` por `alturaAoQuadrado`.
+
+</details>
+
