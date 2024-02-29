@@ -41,6 +41,16 @@ SmartHouse and Residente é um projeto focado em praticar os tipos de dados e na
 
   3 - Para verificar o estado da lampada, basta chamar o método `isLampadaLigada` que retornará `true` ou `false`. 
 
+</details>
+
+<details>
+  <summary><strong>🌐 Conexão à Internet	🌐</strong></summary><br>
+  
+  1 - Criei um método chamado `conectarInternet` que irá receber o atributo `connectionRate` do tipo `double` e deverá retornar `true`ou `false`;
+  
+  2 - Para o atributo `connectionRate` ser true, a taxa de conexão deverá ser maior que 0.5, indicando uma conexão bem-sucedida.
+
+  3 - Caso o atributo `connectionRate` for menor ou igual a 0.5, o método deve retornar false, indicando que a conexão falhou.
 
 </details>
 
