@@ -72,7 +72,7 @@ SmartHouse and Residente é um projeto focado em praticar os tipos de dados e na
 </details>
 
 <details>
-  <summary><strong>🖩 Cálculo do IMC	🖩</strong></summary><br>
+  <summary><strong>🧮 Cálculo do IMC	🧮</strong></summary><br>
   
   1 - Criei um método chamado `calcularImc` que deverá retornar um `double` com o resultado do cálculo do IMC do residente;
   
