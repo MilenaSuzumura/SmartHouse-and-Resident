@@ -4,6 +4,8 @@ SmartHouse and Residente é um projeto focado em praticar os tipos de dados e na
 
 <strong>OBS:</strong> ESSE PROJETO FOI DESENVOLVIDO NA TRYBE.
 
+<br>
+
 ## 📑 Informações básicas e Orientações 📑
 
 <details>
@@ -27,6 +29,8 @@ SmartHouse and Residente é um projeto focado em praticar os tipos de dados e na
   
   Para executar apenas uma classe de testes: `mvn test -Dtest="TestClassName"`
 </details>
+
+<br>
 
 ## 👥 Informações gerais 👥
 
