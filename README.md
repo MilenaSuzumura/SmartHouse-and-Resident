@@ -19,7 +19,7 @@ SmartHouse and Residente é uma atividade focada em praticar os tipos de dados e
 <details>
   <summary><strong>⌨️ Instalando Dependências ⌨️</strong></summary><br>
   
-  Execute:  `npm install`
+  Execute:  `mvn install`
 </details>
 
 <details>
