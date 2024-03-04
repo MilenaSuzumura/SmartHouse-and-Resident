@@ -1,8 +1,8 @@
 # 🏡 SmartHouse and Residente 🏡
 
-SmartHouse and Residente é um projeto focado em praticar os tipos de dados e na criação de métodos e constructor em Java.
+SmartHouse and Residente é uma atividade focada em praticar os tipos de dados e na criação de métodos e constructor em Java.
 
-<strong>OBS:</strong> ESSE PROJETO FOI DESENVOLVIDO NA TRYBE.
+<strong>OBS:</strong> ESSA ATIVIDADE FOI DESENVOLVIDA NA TRYBE.
 
 <br>
 
