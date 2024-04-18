@@ -22,6 +22,7 @@ SmartHouse and Resident é uma atividade focada em praticar os tipos de dados e 
   Execute:  `mvn install`
 </details>
 
+<!--
 <details>
   <summary><strong>🛠 Executando Testes 🛠</strong></summary><br>
   
@@ -29,6 +30,7 @@ SmartHouse and Resident é uma atividade focada em praticar os tipos de dados e 
   
   Para executar apenas uma classe de testes: `mvn test -Dtest="TestClassName"`
 </details>
+-->
 
 <br>
 
